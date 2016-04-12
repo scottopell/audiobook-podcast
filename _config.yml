@@ -1,0 +1,9 @@
+exclude: [ 'README.md']
+
+title : Secret Feed
+description: You shouldn't ever find this...
+tagline: .
+
+author :
+  name : 'Pseudo Nym'
+  email : 'nym@pseudo.com'
